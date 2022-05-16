@@ -19,8 +19,6 @@ require (
 	github.com/jessevdk/go-flags v1.4.0
 	github.com/kylelemons/godebug v0.0.0-20160406211939-eadb3ce320cb
 	github.com/matttproud/golang_protobuf_extensions v1.0.1
-	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
-	github.com/modern-go/reflect2 v1.0.1 // indirect
 	github.com/oklog/run v1.0.0
 	github.com/oklog/ulid v1.3.1
 	github.com/pkg/errors v0.8.1
@@ -36,7 +34,7 @@ require (
 	golang.org/x/sys v0.0.0-20190826190057-c7b8b68b1456 // indirect
 	golang.org/x/tools v0.0.0-20190813034749-528a2984e271
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
-	gopkg.in/yaml.v2 v2.2.2
+	gopkg.in/yaml.v2 v2.2.8
 )
 
 go 1.13
